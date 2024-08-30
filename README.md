@@ -31,6 +31,7 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 * Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
 * How Much (Quanto): Sem custo monetário para o sistema. Projeto feito com fins 100% educacionais.
 * How (Como): Utilizando de tecnologias web modernas, como frameworks para frontend (React) e backend (JavaScript). Banco de dados relacional ou não relacional (Firebase) para armazenar dados dos projetos e usuários.
+
 Funcionalidades principais:
   * Cadastro e login de usuários (alunos, contratantes, professores e quem mais tiver interesse em acessar o site).
   * Upload e gestão de projetos pelos alunos.
