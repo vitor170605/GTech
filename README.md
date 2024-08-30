@@ -30,12 +30,11 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 * Why (Por Que): Facilitar a visibilidade dos projetos dos alunos para futuros contratantes, permitindo que eles vejam a qualidade e a diversidade do trabalho acadêmico. Isso ajudará os alunos a se destacarem no mercado de trabalho e permitirá que os contratantes encontrem talentos que correspondam às suas necessidades.
 * Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
 * How Much (Quanto): Sem custo monetário para o sistema. Projeto feito com fins 100% educacionais.
+* When (Quando): Até dia 21/11/2024
+* Where (Onde): Atraves dos arquivos disponibilizados no repositório
 * How (Como): Utilizando de tecnologias web modernas, como frameworks para frontend (React) e backend (JavaScript). Banco de dados relacional ou não relacional (Firebase) para armazenar dados dos projetos e usuários. Funcionalidades principais:
   * Cadastro e login de usuários (alunos, contratantes, professores e quem mais tiver interesse em acessar o site).
   * Upload e gestão de projetos pelos alunos.
   * Perfis de aluno com informações de contato e descrição dos projetos.
   * Funcionalidades de pesquisa e filtragem de projetos.
   * Sistema de feedback e comentários para contratantes.
-
-* When (Quando): Até dia 21/11/2024
-* Where (Onde): Atraves dos arquivos disponibilizados no repositório
