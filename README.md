@@ -30,10 +30,10 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 * Why (Por Que): Facilitar a visibilidade dos projetos dos alunos para futuros contratantes, permitindo que eles vejam a qualidade e a diversidade do trabalho acadêmico. Isso ajudará os alunos a se destacarem no mercado de trabalho e permitirá que os contratantes encontrem talentos que correspondam às suas necessidades.
 * Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
 * When (Quando):
- * Fase de Planejamento: 1 mês
- * Desenvolvimento Inicial: 3 meses
- * Teste e Ajustes: 1 mês
- * Lançamento: 5 meses a partir do início do projeto
+  * Fase de Planejamento: 1 mês
+  * Desenvolvimento Inicial: 3 meses
+  * Teste e Ajustes: 1 mês
+  * Lançamento: 5 meses a partir do início do projeto
 
 * Where (Onde): Atraves dos arquivos disponibilizados no repositório
 * How Much (Quanto): Sem custo monetário para o sistema. Projeto feito com fins 100% educacionais.
