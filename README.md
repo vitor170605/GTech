@@ -38,5 +38,6 @@ Funcionalidades principais:
   * Perfis de aluno com informações de contato e descrição dos projetos.
   * Funcionalidades de pesquisa e filtragem de projetos.
   * Sistema de feedback e comentários para contratantes.
+
 * When (Quando): Até dia 21/11/2024
 * Where (Onde): Atraves dos arquivos disponibilizados no repositório
