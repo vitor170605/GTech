@@ -16,32 +16,34 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 
 5w2h é uma artificio muito utilizado hoje em dia para organização de objetivos, planos e metas de um sistema ou projeto, utilizando 7 perguntas para serem questionadas e respondidas no começo de um projeto, segue abaixo:
 
-What (O que): Descrição geral do sistema em questão.
+* What (O que): Descrição geral do sistema em questão.
 
-Why (Por Que): Motivos para a ao qual o sistema será montado. O propósito do sistema
+* Why (Por Que): Motivos para a ao qual o sistema será montado. O propósito do sistema
 
-Who (Quem): Quem irá usufruir do sistema criado. Quem são os usuários?
+* Who (Quem): Quem irá usufruir do sistema criado. Quem são os usuários?
 
-How Much (Quanto): Custo geral do projeto. Pode ser definido em valor monetário ou em tempo, dependendo de como o sistema foi feito.
+* How Much (Quanto): Custo geral do projeto. Pode ser definido em valor monetário ou em tempo, dependendo de como o sistema foi feito.
 
-How (Como): Como sera feito o sistema. Quais métodos ou ferramentas serão utilizados para realização e postagem do sistema.
+* How (Como): Como sera feito o sistema. Quais métodos ou ferramentas serão utilizados para realização e postagem do sistema.
 
-When (Quando): Momento em que o sistema ficará pronto (prazo), ou em que momento ele será executado pelo usuário.
+* When (Quando): Momento em que o sistema ficará pronto (prazo), ou em que momento ele será executado pelo usuário.
 
-Where (Onde): Local onde o sistema será realizado
+* Where (Onde): Local onde o sistema será realizado
 
 ## 5w2h Respostas
 
-What (O que): Portifolio referente aos integrantes do grupo onde o usuario tem acesso aos portifolios dos integrantes do grupo separadamente.
+* What (O que): Desenvolvimento de um sistema online que permite a exposição e visualização dos projetos realizados pelos integrantes do grupo. O sistema deve incluir funcionalidades como apresentação de projetos, perfis dos alunos, filtragem por área de estudo e progresso, e uma seção para feedback de futuros contratantes.
 
-Why (Por Que): O site tem o o intuito de demonstrar as habilidades, competencias, experiencias e qualificações dos integrantes publicamente para o usuário.
+* Why (Por Que): Facilitar a visibilidade dos projetos dos alunos para futuros contratantes, permitindo que eles vejam a qualidade e a diversidade do trabalho acadêmico. Isso ajudará os alunos a se destacarem no mercado de trabalho e permitirá que os contratantes encontrem talentos que correspondam às suas necessidades.
 
-Who (Quem): Usuários
+* Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
 
-How Much (Quanto): R$ 0,00
+* How Much (Quanto): Sem custo monetário para o sistema. Projeto feito com fins 100% educacionais.
 
-How (Como): Atraves dos arquivos disponibilizados no repositório.
+* How (Como): Utilizando de tecnologias web modernas, como frameworks para frontend (React) e backend (JavaScript). Banco de dados relacional ou não relacional (Firebase) para armazenar dados dos projetos e usuários.
+Funcionalidades principais:
+*
 
-When (Quando): Até dia 21/11/2024
+* When (Quando): Até dia 21/11/2024
 
-Where (Onde): Atraves dos arquivos disponibilizados no repositório
+* Where (Onde): Atraves dos arquivos disponibilizados no repositório
