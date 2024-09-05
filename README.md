@@ -8,7 +8,7 @@
 * Kauan Gama: https://github.com/KNGAMA/react-base-project <br>
 * Pedro Kurtz: https://github.com/nanic1/Projeto-de-Front-End-IBMEC <br>
 
-## Propósito do portifólio:
+## Propósito do portfólio:
 
 Apresentar projetos referentes aos integrantes do grupo com o intuito de demonstrar as habilidades, competencias, experiencias e qualificações dos integrantes publicamente.
 
