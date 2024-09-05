@@ -1,6 +1,6 @@
 # GTech
 
-## Integrantes:
+## Integrantes e portfólios:
 
 * Barbara Malta: https://github.com/BarbaraMalta/react-base-project <br>
 * Enzo Lazzarotto: https://github.com/Lazzarotto2/react-base-project <br>
