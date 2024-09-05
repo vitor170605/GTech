@@ -1,0 +1,11 @@
+* What (O Que):
+PROJETO: O sistema deve incluir funcionalidades como apresentação de projetos, perfis dos alunos, filtragem por área de estudo e progresso, e uma seção para feedback de futuros contratantes.
+
+* How (Como):
+PROJETO: Utilizando de tecnologias web modernas, como frameworks para frontend (React) e backend (JavaScript). Banco de dados relacional ou não relacional (Firebase) para armazenar dados dos projetos e usuários. Funcionalidades principais:
+  * Cadastro e login de usuários (alunos, contratantes, professores e quem mais tiver interesse em acessar o site).
+  * Upload e gestão de projetos pelos alunos.
+  * Perfis de aluno com informações de contato e descrição dos projetos.
+  * Funcionalidades de pesquisa e filtragem de projetos.
+  * Sistema de feedback e comentários para contratantes.
+ 
