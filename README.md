@@ -27,18 +27,10 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 ## 5w2h Respostas
 
 * What (O que): Desenvolvimento de um sistema online que permite a exposição e visualização dos projetos realizados pelos integrantes do grupo.
-  PROJETO: O sistema deve incluir funcionalidades como apresentação de projetos, perfis dos alunos, filtragem por área de estudo e progresso, e uma seção para feedback de futuros contratantes.
 * Why (Por Que): Facilitar a visibilidade dos projetos dos alunos para futuros contratantes, permitindo que eles vejam a qualidade e a diversidade do trabalho acadêmico. Isso ajudará os alunos a se destacarem no mercado de trabalho e permitirá que os contratantes encontrem talentos que correspondam às suas necessidades.
 * Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
 * When (Quando): Quando for de interesse do recrutador, aluno ou professor em visitar os repositórios de projetos dos alunos.
 * Where (Onde): Será acessado através de um WebSite Online.
 * How Much (Quanto): Sem custo monetário para os usuarios. Sistema feito somente sendo gasto tempo dos integrantes em relação ao mesmo
-* How (Como):
-  SISTEMA: Hospedado através de um website para que possa ser acessado pelos usuários que estão a procura de contratar alunos e ver portfolios
-  PROJETO: Utilizando de tecnologias web modernas, como frameworks para frontend (React) e backend (JavaScript). Banco de dados relacional ou não relacional (Firebase) para armazenar dados dos projetos e usuários. Funcionalidades principais:
-  * Cadastro e login de usuários (alunos, contratantes, professores e quem mais tiver interesse em acessar o site).
-  * Upload e gestão de projetos pelos alunos.
-  * Perfis de aluno com informações de contato e descrição dos projetos.
-  * Funcionalidades de pesquisa e filtragem de projetos.
-  * Sistema de feedback e comentários para contratantes.
+* How (Como): Hospedado através de um website para que possa ser acessado pelos usuários que estão a procura de contratar alunos e ver portfolios
  
