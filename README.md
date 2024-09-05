@@ -20,7 +20,7 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 * Why (Por Que): Motivos para a ao qual o sistema será montado. O propósito do sistema
 * Who (Quem): Quem irá usufruir do sistema criado. Quem são os usuários?
 * When (Quando): Momento em que o sistema ficará pronto (prazo), ou em que momento ele será executado pelo usuário.
-* Where (Onde): Local onde o sistema será realizado
+* Where (Onde): Local onde o sistema será realizado, vulgo web
 * How Much (Quanto): Custo geral do projeto. Pode ser definido em valor monetário ou em tempo, dependendo de como o sistema foi feito.
 * How (Como): Como sera feito o sistema. Quais métodos ou ferramentas serão utilizados para realização e postagem do sistema.
 
