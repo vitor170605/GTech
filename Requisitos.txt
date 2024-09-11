@@ -8,13 +8,14 @@ Pedido:
 Funcionais: 
 (Especificam o que o software deve fazer e está relacionado diretamente à experiência do usuário) 
 
-- Adicionar dados ao site
-- Adicionar portfólios
-- Visualização e pesquisas dos projetos
-- Meio para contato com o proprietário do projeto
-- Deletar e adicionar informações
-- Pesquisar por filtro
+- Listar projetos
+- Citar a linguagem de programação ou supostos programas utilizados para a criação do projeto
+- Email para contato com o proprietário(alunos) do projeto
+- Cadastro do administrador (somente ele irá add/modificar/remover projetos), os demais usuários não precisarão de cadastro para ter acesso ao sistema
+- Deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca específica
 - Gerenciamento de permissões e acessos (só a adm pode adicionar os portifóios)
+- Deverá ter uma espécie de sinopse do que se trata cada portfólio
+- Design inspirado na IBMEC
 - Idiomas 
 
 
@@ -28,5 +29,7 @@ Não funcionais:
 - Backup dos dados inseridos
 - Usabilidade (facilidade e intuitividade)
 - Banco de dados
-- Tipos de dispositivos em que o software pode ser utilizado
-- Conexão
+- O sistema deve ser compatível com os principais navegadores e dispositivos móveis, incluindo computadores, tablets e celulares, fazer um layout responsivo
+- Rapidez e estabilidade no site também é necessário, conexão 
+
+
