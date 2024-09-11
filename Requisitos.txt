@@ -8,15 +8,15 @@ Pedido:
 Funcionais: 
 (Especificam o que o software deve fazer e está relacionado diretamente à experiência do usuário) 
 
-- Listar projetos
-- Citar a linguagem de programação ou supostos programas utilizados para a criação do projeto
-- Email para contato com o proprietário(alunos) do projeto
-- Cadastro do administrador (somente ele irá add/modificar/remover projetos), os demais usuários não precisarão de cadastro para ter acesso ao sistema
-- Deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca específica
-- Gerenciamento de permissões e acessos (só a adm pode adicionar os portifóios)
-- Deverá ter uma espécie de sinopse do que se trata cada portfólio
-- Design inspirado na IBMEC
-- Idiomas 
+- O sistema deve listar projetos
+- O sistema deve citar a linguagem de programação ou supostos programas utilizados para a criação do projeto
+- O sistema deve conter o Email para contato com o proprietário(alunos) do projeto
+- O sistema deve possibilitar a criação do cadastro do administrador (somente ele irá add/modificar/remover projetos), os demais usuários não precisarão de cadastro para ter acesso ao sistema
+- O sistema deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca específica
+- O sistema deverá ter um gerenciamento de permissões e acessos (só a adm pode adicionar os portifóios)
+- O sistema deverá ter uma espécie de sinopse do que se trata cada portfólio
+- O design do sistema deverá ser inspirado na IBMEC
+- O sistema deverá ter variedade de Idiomas 
 
 
 
@@ -25,11 +25,11 @@ Funcionais:
 Não funcionais:
 (É a parte que mostra como o site vai tornar real tudo que está sendo planejado)
 
-- Segurança do site
-- Backup dos dados inseridos
-- Usabilidade (facilidade e intuitividade)
-- Banco de dados
+- O sistema deve possuir segurança do site
+- O sistema deve fazer Backup dos dados inseridos
+- O sistema deverá ter uma boa usabilidade (facilidade e intuitividade)
+- O sistema deverá ter um Banco de dados
 - O sistema deve ser compatível com os principais navegadores e dispositivos móveis, incluindo computadores, tablets e celulares, fazer um layout responsivo
-- Rapidez e estabilidade no site também é necessário, conexão 
+- O sistema deve ter rapidez e estabilidade no site que também é necessário, conexão 
 
 
