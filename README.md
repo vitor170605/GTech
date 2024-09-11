@@ -17,10 +17,10 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 5w2h é uma artificio muito utilizado hoje em dia para organização de objetivos, planos e metas de um sistema ou projeto, utilizando 7 perguntas para serem questionadas e respondidas no começo de um projeto, segue abaixo:
 
 * What (O que): Descrição geral do sistema em questão.
-* Why (Por Que): Motivos para a ao qual o sistema será montado. O propósito do sistema
+* Why (Por Que): Motivos para a ao qual o sistema será montado. O propósito do sistema.
 * Who (Quem): Quem irá usufruir do sistema criado. Quem são os usuários?
 * When (Quando): Momento em que o projeto será executado pelo usuário. 
-* Where (Onde): Local onde o sistema será utilizado, vulgo web
+* Where (Onde): Local onde o sistema será utilizado, vulgo web.
 * How Much (Quanto): O valor monetário e o tempo que o sistema será feito.
 * How (Como): Como os usuários irão utilizar o sistema. 
 
@@ -28,9 +28,8 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 
 * What (O que): Desenvolvimento de um sistema online que permite a exposição e visualização dos projetos realizados pelos integrantes do grupo.
 * Why (Por Que): Facilitar a visibilidade dos projetos dos alunos para futuros contratantes, permitindo que eles vejam a qualidade e a diversidade do trabalho acadêmico. Isso ajudará os alunos a se destacarem no mercado de trabalho e permitirá que os contratantes encontrem talentos que correspondam às suas necessidades.
-* Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
+* Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo.
 * When (Quando): Quando for de interesse do recrutador, aluno ou professor em visitar os repositórios de projetos dos alunos.
 * Where (Onde): Será acessado através de um WebSite Online.
-* How Much (Quanto):Sistema feito somente sendo gasto tempo dos integrantes em relação ao mesmo, consequentemente monetário pois tempa é dinheiro.
-* How (Como): Através do portifólio dos alunos do ibmec
- 
+* How Much (Quanto):Sistema feito somente sendo gasto tempo dos integrantes em relação ao mesmo, consequentemente monetário pois tempo é dinheiro.
+* How (Como): Através do portifólio dos alunos do IBMEC.
