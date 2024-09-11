@@ -10,7 +10,7 @@
 
 ## Propósito do portfólio:
 
-Apresentar projetos referentes aos integrantes do grupo com o intuito de demonstrar as habilidades, competencias, experiencias e qualificações dos integrantes publicamente, para que futuros possíveis contratantes possam acessar os projetos e encontrar novos talentos.
+Apresentar projetos referentes aos integrantes do grupo com o intuito de demonstrar as habilidades, competências, experiências e qualificações dos integrantes publicamente, para que futuros possíveis contratantes possam acessar os projetos e encontrar novos talentos.
 
 ## 5w2h
 
@@ -19,10 +19,10 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 * What (O que): Descrição geral do sistema em questão.
 * Why (Por Que): Motivos para a ao qual o sistema será montado. O propósito do sistema
 * Who (Quem): Quem irá usufruir do sistema criado. Quem são os usuários?
-* When (Quando): Momento em que o sistema ficará pronto (prazo), ou em que momento ele será executado pelo usuário.
-* Where (Onde): Local onde o sistema será realizado, vulgo web
-* How Much (Quanto): Custo geral do projeto. Pode ser definido em valor monetário ou em tempo, dependendo de como o sistema foi feito.
-* How (Como): Como sera feito o sistema. Quais métodos ou ferramentas serão utilizados para realização e postagem do sistema.
+* When (Quando): Momento em que o projeto será executado pelo usuário. 
+* Where (Onde): Local onde o sistema será utilizado, vulgo web
+* How Much (Quanto): O valor monetário e o tempo que o sistema será feito.
+* How (Como): Como os usuários irão utilizar o sistema. 
 
 ## 5w2h Respostas
 
@@ -31,6 +31,6 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 * Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo
 * When (Quando): Quando for de interesse do recrutador, aluno ou professor em visitar os repositórios de projetos dos alunos.
 * Where (Onde): Será acessado através de um WebSite Online.
-* How Much (Quanto): Sem custo monetário para os usuarios. Sistema feito somente sendo gasto tempo dos integrantes em relação ao mesmo
-* How (Como): Hospedado através de um website para que possa ser acessado pelos usuários que estão a procura de contratar alunos e ver portfolios
+* How Much (Quanto):Sistema feito somente sendo gasto tempo dos integrantes em relação ao mesmo, consequentemente monetário pois tempa é dinheiro.
+* How (Como): Através do portifólio dos alunos do ibmec
  
