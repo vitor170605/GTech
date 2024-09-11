@@ -1,21 +1,21 @@
-REQUISITOS:
+# REQUISITOS:
 
-- Pedido
-     listar os requisitos do sistema em linguagem natural no repositório do grupo, separando-os em funcionais e não funcionais
+Pedido:
+     Listar os requisitos do sistema em linguagem natural no repositório do grupo, separando-os em funcionais e não funcionais
     
 💡
 
 Funcionais: 
 (Especificam o que o software deve fazer e está relacionado diretamente à experiência do usuário) 
 
-- Adicionar dados no site
-- adicionar portfólios
-- visualização e pesquisas dos projetos
-- meio para contato com o dono do projeto
+- Adicionar dados ao site
+- Adicionar portfólios
+- Visualização e pesquisas dos projetos
+- Meio para contato com o proprietário do projeto
 - Deletar e adicionar informações
-- pesquisar por filtro
-- gerenciamento de permissão e acesso (só a adm pode adicionar os portifóios)
-- idiomas 
+- Pesquisar por filtro
+- Gerenciamento de permissões e acessos (só a adm pode adicionar os portifóios)
+- Idiomas 
 
 
 
@@ -26,7 +26,7 @@ Não funcionais:
 
 - Segurança do site
 - Backup dos dados inseridos
-- usabilidade (facilidade e intuitividade)
-- banco de dados
-- os tipos de dispositivo em que o software pode ser utilizado
-- conexão
+- Usabilidade (facilidade e intuitividade)
+- Banco de dados
+- Tipos de dispositivos em que o software pode ser utilizado
+- Conexão
