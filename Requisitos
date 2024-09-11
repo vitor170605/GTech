@@ -1,0 +1,30 @@
+REQUISITOS:
+
+- Pedido
+     listar os requisitos do sistema em linguagem natural no repositório do grupo, separando-os em funcionais e não funcionais
+    
+💡
+
+Funcionais: 
+(Especificam o que o software deve fazer e está relacionado diretamente à experiência do usuário) 
+
+- Adicionar dados no site
+- adicionar portfólios
+- visualização e pesquisas dos projetos
+- meio para contato com o dono do projeto
+- Deletar e adicionar informações
+- pesquisar por filtro
+
+
+
+💡
+
+Não funcionais:
+(É a parte que mostra como o site vai tornar real tudo que está sendo planejado)
+
+- Segurança do site
+- Backup dos dados inseridos
+- usabilidade (facilidade e intuitividade)
+- banco de dados
+- os tipos de dispositivo em que o software pode ser utilizado
+- conexão
