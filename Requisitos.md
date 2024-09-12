@@ -5,7 +5,7 @@ Pedido:
     
 💡
 
-Funcionais: 
+# Funcionais: 
 (Especificam o que o software deve fazer e está relacionado diretamente à experiência do usuário) 
 
 - O sistema deve apresentar a listagem dos projetos dos alunos
@@ -17,7 +17,7 @@ Funcionais:
 - O sistema deve apresentar o perfil, a função individual e o período de cada integrante do projeto
 💡
 
-Não funcionais:
+# Não funcionais:
 (É a parte que mostra como o site vai tornar real tudo que está sendo planejado)
 
 - O sistema deverá utilizar uma API de Banco de dados armazenando os projetos
