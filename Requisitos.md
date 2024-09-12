@@ -8,28 +8,19 @@ Pedido:
 Funcionais: 
 (Especificam o que o software deve fazer e está relacionado diretamente à experiência do usuário) 
 
-- O sistema deve listar projetos
-- O sistema deve citar a linguagem de programação ou supostos programas utilizados para a criação do projeto
-- O sistema deve conter o Email para contato com o proprietário do projeto, ou da plataforma.
-- O sistema deve possibilitar a criação do cadastro do administrador (somente ele irá add/modificar/remover projetos), os demais usuários não precisarão de cadastro para ter acesso ao sistema
-- O sistema deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca específica
-- O sistema deverá ter um gerenciamento de permissões e acessos (só a adm pode adicionar os portifóios)
-- O sistema deverá ter uma espécie de sinopse do que se trata cada portfólio
-- O design do sistema deverá ser inspirado na IBMEC
-- O sistema deverá ter variedade de Idiomas 
-
-
-
+- O sistema deve apresentar a listagem dos projetos dos alunos
+- O sistema deve apresentar a linguagem de programação, as tecnologias e ferramentas para a criação dos projetos
+- O sistema deve apresentar o Email para contato dos integrantes do projeto, ou da plataforma.
+- O sistema deve possibilitar uma identificação do administrador, tendo um login apenas para ele (somente ele irá add/modificar/remover projetos), os demais usuários NÃO precisarão de cadastro para ter acesso ao sistema
+- O sistema deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca
+- O sistema deverá ter uma explicação do que se trata cada projeto e duração do mesmo
+- O sistema deve apresentar o perfil, a função individual e o período de cada integrante do projeto
 💡
 
 Não funcionais:
 (É a parte que mostra como o site vai tornar real tudo que está sendo planejado)
 
-- O sistema deve possuir segurança do site
-- O sistema deve fazer Backup dos dados inseridos
-- O sistema deverá ter uma boa usabilidade (facilidade e intuitividade)
-- O sistema deverá ter um Banco de dados
+- O sistema deverá utilizar uma API de Banco de dados armazenando os projetos
 - O sistema deve ser compatível com os principais navegadores e dispositivos móveis, incluindo computadores, tablets e celulares, fazer um layout responsivo
-- O sistema deve ter rapidez e estabilidade no site que também é necessário, conexão 
-
-
+- O sistema deverá possuir um design inspirado na IBMEC
+- O sistema deve ser feito por javascript, react
