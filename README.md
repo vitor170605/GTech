@@ -26,9 +26,9 @@ Apresentar projetos referentes aos integrantes do grupo com o intuito de demonst
 
 ## 5w2h Respostas
 
-* What (O que): Desenvolvimento de um sistema online que permite a exposição e visualização dos projetos realizados pelos integrantes do grupo.
+* What (O que): Um sistema online que permite a exposição e visualização dos projetos realizados pelos integrantes do grupo.
 * Why (Por Que): Facilitar a visibilidade dos projetos dos alunos para futuros contratantes, permitindo que eles vejam a qualidade e a diversidade do trabalho acadêmico. Isso ajudará os alunos a se destacarem no mercado de trabalho e permitirá que os contratantes encontrem talentos que correspondam às suas necessidades.
-* Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes desse grupo.
+* Who (Quem): Destinado aos contratantes de outras empresas em busca de talentos para sua empresa e para os professores interessados nos projetos dos representantes.
 * When (Quando): Quando for de interesse do recrutador, aluno ou professor em visitar os repositórios de projetos dos alunos.
 * Where (Onde): Será acessado através de um WebSite Online.
 * How Much (Quanto):Sistema feito somente sendo gasto tempo dos integrantes em relação ao mesmo, consequentemente monetário pois tempo é dinheiro.
