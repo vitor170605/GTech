@@ -1,7 +1,7 @@
 # REQUISITOS:
 
 Pedido:
-     Listar os requisitos do sistema em linguagem natural no repositório do grupo, separando-os em funcionais e não funcionais
+     Listar os requisitos do sistema em linguagem natural (narrativa livre) no repositório do grupo, separando-os em funcionais e não funcionais
     
 💡
 
@@ -10,7 +10,7 @@ Funcionais:
 
 - O sistema deve listar projetos
 - O sistema deve citar a linguagem de programação ou supostos programas utilizados para a criação do projeto
-- O sistema deve conter o Email para contato com o proprietário(alunos) do projeto
+- O sistema deve conter o Email para contato com o proprietário do projeto, ou da plataforma.
 - O sistema deve possibilitar a criação do cadastro do administrador (somente ele irá add/modificar/remover projetos), os demais usuários não precisarão de cadastro para ter acesso ao sistema
 - O sistema deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca específica
 - O sistema deverá ter um gerenciamento de permissões e acessos (só a adm pode adicionar os portifóios)
