@@ -15,6 +15,7 @@ Pedido:
 - O sistema deverá ter busca de projetos através de filtros, botão de limpar filtros e barra de busca
 - O sistema deverá ter uma explicação do que se trata cada projeto e duração do mesmo
 - O sistema deve apresentar o perfil, a função individual e o período de cada integrante do projeto
+
 💡
 
 # Não funcionais:
